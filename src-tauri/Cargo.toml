@@ -25,7 +25,7 @@ sha2 = "0.10.8"
 anyhow = "1.0"
 percent-encoding = "2.3.0"
 chrono = "0.4.31"
-tauri-plugin-log = { git = "https://github.com/tauri-apps/plugins-workspace", branch = "dev" }
+tauri-plugin-log = { git = "https://github.com/tauri-apps/plugins-workspace", branch = "v1" }
 
 qrcode-generator = "4.1.9"
 image = "0.24.7"
